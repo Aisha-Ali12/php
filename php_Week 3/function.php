@@ -6,7 +6,7 @@ function WelcomeMsg($name) {
 
 WelcomeMsg("aisha");
 echo "<br>";
-WelcomeMsg("ali");
+WelcomeMsg("ali ahmed");
 echo "<br>";
 
 function factorial($n) {
